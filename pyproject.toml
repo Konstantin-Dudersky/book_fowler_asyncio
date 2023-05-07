@@ -21,6 +21,7 @@ psycopg2 = "^2.9.6"
 flask = "^2.3.2"
 starlette = "^0.26.1"
 websockets = "^11.0.2"
+beautifulsoup4 = "^4.12.2"
 
 
 [tool.poetry.group.dev.dependencies]
